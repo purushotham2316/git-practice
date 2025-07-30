@@ -1,2 +1,3 @@
 "Hello Git!" 
 "Second line added" 
+"Edited the third linke manually in the Git Hub"
